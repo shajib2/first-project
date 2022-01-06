@@ -45,5 +45,19 @@ h1{
     width: 40%;
 }
 
+/* third-banner */
+
+.third-banner{
+    display: flex;
+    font-size: 20px;
+    
+}
+.third-banner img{
+    width: 60%;
+    padding: 5%;
+    
+
+}
+
 
    
